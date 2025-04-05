@@ -1,0 +1,5 @@
+PASTE PROXY HERE
+FORMAT PROXY => typeproxy:ip:port 
+If your proxy uses format authentication like this => typeproxy:user:password@ip:port 
+EXAMPLE OF NOT USING AUTHENTICATION => http://203.19.38.114:1080
+EXAMPLE WITH AUTHENTICATION => http://TEST123:PASSWORD@203.19.38.114:1080
