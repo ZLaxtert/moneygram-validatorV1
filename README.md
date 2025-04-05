@@ -1,6 +1,6 @@
 # moneygram-validatorV1
 Tool for checking Moneygram email validation. This tool is accurate because it takes it directly from                   the Moneygram API.
-This tool is accurate because we created the API directly. Support ALL EMAIL V4 [UPDATE] [11-OCT-2024]
+This tool is accurate because we created the API directly. Support ALL EMAIL V1 [UPDATE] [05-APR-2025]
 
 ![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
 ![DARKXCODE](https://img.shields.io/badge/Team-DARKXCODE-black)
